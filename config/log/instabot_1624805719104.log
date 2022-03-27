@@ -1,0 +1,10 @@
+2022-03-27 12:42:26,590 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-03-27 12:42:26,590 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\91876\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-03-27 12:42:26,595 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2022-03-27 12:42:27,342 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2022-03-27 12:42:27,864 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2022-03-27 12:42:28,345 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2022-03-27 12:42:28,847 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2022-03-27 12:42:30,618 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2022-03-27 12:42:30,618 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'xmen_naruto'!
+2022-03-27 12:42:30,618 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
