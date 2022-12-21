@@ -3,8 +3,8 @@
 # import time, random
 
 # # Username and password of your instagram account:
-# my_username = 'xmen_naruto'
-# my_password = 'hentai'
+# my_username = 'leadswing'
+# my_password = 'newway'
 
 # # Instagram username list for DM:
 # usernames = ['user1', 'user2', 'user3']
